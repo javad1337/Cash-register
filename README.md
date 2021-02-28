@@ -1,0 +1,2 @@
+# Cash-register
+An imitation of a cash register for a store selling New Year's goods.  The cashier must select an item from the list, enter its quantity, then select the next item. After completing the input, display the entire purchase amount. Provide for a discount.  The list of products must contain at least 4 products, and their price must be displayed.  Provide for incorrectly entered data.  - Implement the ability to service multiple clients in a row - Storing the total revenue of the store - Limit the number of products in the store.
